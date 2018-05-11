@@ -506,12 +506,20 @@
       <workItem from="1525687008480" duration="6911000" />
       <workItem from="1525742219548" duration="15263000" />
       <workItem from="1525827500650" duration="5620000" />
-      <workItem from="1526000127520" duration="799000" />
+      <workItem from="1526000127520" duration="1002000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1526000938875</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526000938875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89426000" />
+    <option name="totallyTimeSpent" value="89629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -589,6 +597,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
